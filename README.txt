@@ -1,0 +1,2 @@
+SOS PASS — VIA EMMAUS | DEMONSTRAÇÃO PÚBLICA
+Todos os dados de viagem são exemplos fictícios. Este aplicativo não é um serviço de emergência. Os dados digitados pelo usuário ficam no armazenamento local do navegador, sem conta, servidor, backup ou sincronização. Evite inserir informações sensíveis. O número 911 é o serviço de emergência no Canadá, mas não é apropriado para todos os países. Para instalar como PWA e testar cache offline, hospede via HTTPS.
